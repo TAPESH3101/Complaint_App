@@ -22,6 +22,7 @@ public class PostCoplaintPage extends AppCompatActivity {
         pincode = findViewById(R.id.pincode);
         city = findViewById(R.id.city);
 
+        // comment zero
 
 
         state = findViewById(R.id.pcstate);
